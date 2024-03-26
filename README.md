@@ -7,6 +7,6 @@
 
 - Site URL : https://vatcalculator.mahfujulislam.com/
 - email : admin@gmail.com
-- passwor: d123456
+- password: 123456
 
 
